@@ -15,40 +15,15 @@ MATERIAL Y EQUIPO REQUERIDO
 
 PROCEDIMIENTO
 
--Transforme a su forma polar:
+![image](https://user-images.githubusercontent.com/93899720/155032821-66766d06-2a82-4582-973b-d1818256c8af.png)
 
-a) 2 + 3 j =
+![image](https://user-images.githubusercontent.com/93899720/155032917-5b2ef1ed-5025-41da-9dd9-606a816697e4.png)
 
-b) -8 + 6.2 j =
+![image](https://user-images.githubusercontent.com/93899720/155032968-607ad99a-8650-4ae2-a39b-542d897bbcd4.png)
 
-c) 4.3 – 2.8 j =
+![image](https://user-images.githubusercontent.com/93899720/155032990-ee67abf3-e069-4117-943c-335f1ad52432.png)
 
-d) -6 – 3.2 j =
-
--Transforme a su forma rectangular:
-
-a) 36 | -10° =
-
-b) 28.7 | 135° =
-
-c) 11.2 | 28° =
-
-d) 45 | -117.9° =
-
--Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
-forma rectangular como en su forma polar.
-
-a) 10 + 3 j - ( 7 + 2 j )( 3 |-115°)
-2 j
-
-b) 6.8 |125.3° + 4.5 |-11.5°
-7.6 – 1.2 j
-
-c) 34 + 28.5 j –51.2 |-215°
-4 |-20.8°
-
-Resuelva las operaciones anteriores por medio de la calculadora y compare
-resultados.
+![image](https://user-images.githubusercontent.com/93899720/155033221-3b54ef6a-c380-40c7-98f4-82e444cd3f81.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
