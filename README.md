@@ -15,15 +15,22 @@ MATERIAL Y EQUIPO REQUERIDO
 
 PROCEDIMIENTO
 
-![image](https://user-images.githubusercontent.com/93899720/155032821-66766d06-2a82-4582-973b-d1818256c8af.png)
+1).
 
-![image](https://user-images.githubusercontent.com/93899720/155032917-5b2ef1ed-5025-41da-9dd9-606a816697e4.png)
+![image](https://user-images.githubusercontent.com/93899720/155039085-c74ac7fa-a712-4fce-85af-ac87840fc543.png)
 
-![image](https://user-images.githubusercontent.com/93899720/155032968-607ad99a-8650-4ae2-a39b-542d897bbcd4.png)
+2.
 
-![image](https://user-images.githubusercontent.com/93899720/155032990-ee67abf3-e069-4117-943c-335f1ad52432.png)
+![image](https://user-images.githubusercontent.com/93899720/155039129-867f473c-c682-4a22-8e98-44c58ea68941.png)
 
-![image](https://user-images.githubusercontent.com/93899720/155033221-3b54ef6a-c380-40c7-98f4-82e444cd3f81.png)
+3.
+
+![image](https://user-images.githubusercontent.com/93899720/155039209-45ff37f8-7d41-436c-a74d-7a2f9fea3fcb.png)
+
+![image](https://user-images.githubusercontent.com/93899720/155039243-c2734f02-e928-493e-a1f4-54587542184f.png)
+
+![image](https://user-images.githubusercontent.com/93899720/155039258-111806ce-1f3c-426a-b83f-0bca1152fb49.png)
+
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
