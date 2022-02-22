@@ -25,11 +25,11 @@ PROCEDIMIENTO
 
 3.
 
-![image](https://user-images.githubusercontent.com/93899720/155039209-45ff37f8-7d41-436c-a74d-7a2f9fea3fcb.png)
+![image](https://user-images.githubusercontent.com/93899720/155045378-9c3cefe3-a4ec-4595-947a-ac382530ef09.png)
 
-![image](https://user-images.githubusercontent.com/93899720/155039243-c2734f02-e928-493e-a1f4-54587542184f.png)
+![image](https://user-images.githubusercontent.com/93899720/155045399-94cdec65-27d8-47e3-95c0-792ae481442c.png)
 
-![image](https://user-images.githubusercontent.com/93899720/155039258-111806ce-1f3c-426a-b83f-0bca1152fb49.png)
+![image](https://user-images.githubusercontent.com/93899720/155045425-8eccfd10-1276-4ea9-8dfc-fb53563f0a80.png)
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
