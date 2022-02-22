@@ -43,6 +43,9 @@ PROCEDIMIENTO
 
 4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
+![image](https://user-images.githubusercontent.com/93899720/155160507-32817cb2-7bf6-4d4a-ba3d-02178d052e62.png)
+
+
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 
