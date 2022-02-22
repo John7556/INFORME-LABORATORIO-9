@@ -4,9 +4,18 @@
 
   -Objetivo General.
   
-  -Objetivo Especifico 
+  Realizar operaciones aritméticas con números complejos transformando los mismos a su forma polar y rectangular 
+  
+  -Objetivos Especificos
+  
+  Transformar a polares y rectangulares 
+  
+  Utilizar números complejos
+
   
 2. MARCO TEÓRICO 
+
+![Inductor y capacitor](https://user-images.githubusercontent.com/93899720/155157522-3e615cc2-ef0f-48ef-a8d5-cb53c576c562.jpg)
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -41,7 +50,8 @@ PROCEDIMIENTO
 
 6. CONCLUSIONES
 
+-	Los números complejos permiten realizar operaciones matemáticas con cantidades fasoriales es muy útiles en el análisis de circuitos de ca. Con el sistema de los números complejos se puede: sumar, restar, multiplicar y dividir cantidades que tienen tanto magnitud como ángulo.
 
 7. BIBLIOGRAFÍA
 
-
+-	Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson.
