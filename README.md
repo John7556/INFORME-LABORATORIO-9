@@ -17,7 +17,7 @@ PROCEDIMIENTO
 
 1.
 
-![image](https://user-images.githubusercontent.com/93899720/155039085-c74ac7fa-a712-4fce-85af-ac87840fc543.png)
+![image](https://user-images.githubusercontent.com/93899720/155045799-058f3f69-765f-4b33-ba23-d84e2c37a9d5.png)
 
 2.
 
