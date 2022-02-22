@@ -83,3 +83,6 @@ c)
 7. BIBLIOGRAFÍA
 
 -	Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson.
+-	fasor - Diccionario de Ingeniería Eléctrica. (2022). Retrieved 22 February 2022, from https://electricidad.usal.es/Principal/Circuitos/Diccionario/Diccionario.php?b=id:248
+-	(2022). Retrieved 21 February 2022, from https://www.fisicapractica.com/fasores.php
+-	(2022). Retrieved 21 February 2022, from https://www.youtube.com/watch?v=SvzPoM7rEQc
