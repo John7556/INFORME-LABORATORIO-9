@@ -15,7 +15,7 @@ MATERIAL Y EQUIPO REQUERIDO
 
 PROCEDIMIENTO
 
-1).
+1.
 
 ![image](https://user-images.githubusercontent.com/93899720/155039085-c74ac7fa-a712-4fce-85af-ac87840fc543.png)
 
@@ -39,6 +39,7 @@ PROCEDIMIENTO
 
 
 6. CONCLUSIONES
+
 
 7. BIBLIOGRAFÍA
 
