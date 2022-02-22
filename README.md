@@ -6,9 +6,9 @@
   
   Realizar operaciones aritméticas con números complejos transformando los mismos a su forma polar y rectangular 
   
-  -Objetivos Especificos
+  - Objetivos Especificos
   
-  Transformar a polares y rectangulares 
+  - Transformar a polares y rectangulares 
   
   Utilizar números complejos
 
