@@ -25,7 +25,7 @@ PROCEDIMIENTO
 
 3.
 
-![image](https://user-images.githubusercontent.com/93899720/155045378-9c3cefe3-a4ec-4595-947a-ac382530ef09.png)
+![image](https://user-images.githubusercontent.com/93899720/155047258-1c91fc55-75e4-4adc-83b9-04c6ea54bd2e.png)
 
 ![image](https://user-images.githubusercontent.com/93899720/155045399-94cdec65-27d8-47e3-95c0-792ae481442c.png)
 
