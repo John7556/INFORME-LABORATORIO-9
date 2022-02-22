@@ -37,7 +37,7 @@ PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/93899720/155047258-1c91fc55-75e4-4adc-83b9-04c6ea54bd2e.png)
 
-![image](https://user-images.githubusercontent.com/93899720/155045399-94cdec65-27d8-47e3-95c0-792ae481442c.png)
+![image](https://user-images.githubusercontent.com/93899720/155162109-8c929b81-42a7-4572-84c5-d0ef4e511435.png)
 
 ![image](https://user-images.githubusercontent.com/93899720/155045425-8eccfd10-1276-4ea9-8dfc-fb53563f0a80.png)
 
