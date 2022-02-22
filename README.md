@@ -53,16 +53,22 @@ PROCEDIMIENTO
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 a)
+
+
 ![image](https://user-images.githubusercontent.com/93899720/155166942-4c6ca52a-8b5f-4bb6-b4e3-fb32d4df0387.png)
 
 
 
 b)
+
+
 ![image](https://user-images.githubusercontent.com/93899720/155166969-c71f6761-61d4-435d-bca5-5dace5cd4841.png)
 
 
 
 c)
+
+
 ![image](https://user-images.githubusercontent.com/93899720/155166996-b257571f-5814-4042-a6e2-8a1cf2f49311.png)
 
 
