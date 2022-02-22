@@ -21,7 +21,7 @@ PROCEDIMIENTO
 
 2.
 
-![image](https://user-images.githubusercontent.com/93899720/155039129-867f473c-c682-4a22-8e98-44c58ea68941.png)
+![image](https://user-images.githubusercontent.com/93899720/155045944-d6e5f554-2b99-42c7-9dae-8ee20a81e5cf.png)
 
 3.
 
